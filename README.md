@@ -16,4 +16,4 @@
 
 ### ➩ Development Environments
 
-≫ [Podman Desktop](https://github.com/podman-desktop/podman-desktop.git)
+- [Podman Desktop](https://github.com/podman-desktop/podman-desktop.git)
