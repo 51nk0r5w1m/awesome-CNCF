@@ -1,4 +1,13 @@
 # awesome-CNCF
-A dynamic compendium of resources promoting and advancing cloud native computing awesomeness.
+Built for the curious-minded early adopters
 
-<p align="center"> <img src="assets/logoSunny.png" alt="Awesome Cloud Native Mascot" width="300"/><br><br> <sub>Resources are fleeting, but awesome lists are forever</sub><br> <a href="https://github.com/51nk0r5w1m/awesome-CNCF"></a><br> <sup>Built for the curious early adopters</sup> </p>
+<p align="center">
+  <img src="assets/logoSunny.png" alt="Awesome Cloud Mascot" width="300"/><br><br>
+</p>
+
+<h4 align="center"><strong>Resources are fleeting, but awesome lists are forever</strong></h4>
+
+<h3 align="center">
+  <a href="https://github.com/51nk0r5w1m/awesome-CNCF"><strong> ☞ Explore the List</strong></a>
+</h3>
+
