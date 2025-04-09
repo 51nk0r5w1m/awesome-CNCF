@@ -1,20 +1,14 @@
-<p align="center">
-  <img src="assets/logoSunny.png" alt="Awesome Cloud Mascot" width="300"/><br><br>
-</p>
+<h1 align="center">❑ <code>awesome-CNCF</code></h1>
 
-<pre>
-<code>
+
+```json
 {
   "cloudNative": true,
   "resources": "ephemeral",
   "awesomeLists": "forever"
 }
-</code>
-</pre>
-
-  </td>
-  </tr>
-</table>
+```
+<p align="center"> <img src="assets/logoSunny.png" alt="Awesome Cloud Mascot" width="300"/><br><br> </p>
 
 ---
 
