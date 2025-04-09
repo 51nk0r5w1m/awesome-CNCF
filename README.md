@@ -1,4 +1,4 @@
-<h1 align="center"><code>❑ awesome-CNCF</code></h1>
+# ❑ `awesome-CNCF`
 
 
 <p align="center">
