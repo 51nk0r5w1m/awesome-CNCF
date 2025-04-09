@@ -22,7 +22,11 @@
 - [ko](https://github.com/ko-build/ko.git)
 
 
-### ➩ Supply Chain
+### ➩ Supply Chain Security
 
 - [sigstore](https://github.com/sigstore/cosign.git)
+- [Dependency-Track](https://github.com/DependencyTrack/dependency-track.git)
+
+
+### 
 
