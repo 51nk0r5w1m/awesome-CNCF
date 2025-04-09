@@ -21,6 +21,6 @@
 - [Backstage](https://github.com/backstage/backstage.git)
   
 
-### ➩ Inner Loop
+### ➩ Inner Dev Loop
 
 - [ko](https://github.com/ko-build/ko.git)
