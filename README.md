@@ -1,5 +1,6 @@
 <h1 align="center">❑ <code>awesome-cloudNative</code></h1>
 
+---
 
 ```json
 {
@@ -8,8 +9,6 @@
   "awesomeLists": "forever"
 }
 ```
-
----
 
 <p align="center"> <img src="assets/logoSunny.png" alt="Awesome Cloud Mascot" width="400"/><br><br> </p>
 
