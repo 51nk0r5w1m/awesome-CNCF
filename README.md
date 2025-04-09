@@ -16,6 +16,8 @@
 
 <p align="center"> <img src="assets/logoSunny.png" alt="Awesome Cloud Mascot" width="400"/><br><br> </p>
 
+<hr class="double">
+
 ---
 
 <br>
