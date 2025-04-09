@@ -24,9 +24,7 @@
 
 ### ➩ Supply Chain Security
 
+- [SLSA](https://github.com/slsa-framework/slsa.git)
 - [sigstore](https://github.com/sigstore/cosign.git)
 - [Dependency-Track](https://github.com/DependencyTrack/dependency-track.git)
-
-
-### 
 
