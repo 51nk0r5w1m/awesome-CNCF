@@ -11,10 +11,8 @@
 <p align="center"> <img src="assets/logoSunny.png" alt="Awesome Cloud Mascot" width="300"/><br><br> </p>
 
 ---
----
 
 &nbsp;  
-&nbsp;
 
 ## >> Development Environments
 
