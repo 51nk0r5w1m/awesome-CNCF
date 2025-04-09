@@ -1,5 +1,5 @@
 # awesome-CNCF
-Built for the curious-minded early adopters
+
 
 <p align="center">
   <img src="assets/logoSunny.png" alt="Awesome Cloud Mascot" width="300"/><br><br>
