@@ -1,4 +1,4 @@
-# ❏ awesome-CNCF
+<h1 align="center"><code>❑ awesome-CNCF</code></h1>
 
 
 <p align="center">
