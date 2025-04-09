@@ -1,4 +1,4 @@
-<h1 align="center">❑ <code>awesome-CNCF</code></h1>
+<h1 align="center">❑ <code>awesome-cloudNative</code></h1>
 
 
 ```json
