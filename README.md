@@ -11,7 +11,9 @@
 
 <br>
 
-<p align="center"> <img src="assets/logoSunny.png" alt="Awesome Cloud Mascot" width="400"/><br><br> </p>
+<p align="center">
+  <img src="assets/logoSunny.png" alt="Awesome Cloud Mascot" style="border: 2px solid grey; width: 400px;" />
+</p>
 
 ---
 ---
